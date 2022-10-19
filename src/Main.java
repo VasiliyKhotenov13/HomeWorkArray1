@@ -83,6 +83,7 @@ public class Main {
                 array2[a] = array2[a] + 1;
                 System.out.println(array2[a]);
         }
+        System.out.println("КОНЕЦ");
 
     }
 }
